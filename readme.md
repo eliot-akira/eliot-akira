@@ -1,5 +1,3 @@
-# Eliot Akira
-
 ## :seedling:
 
 ### Recent
