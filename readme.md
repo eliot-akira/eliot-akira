@@ -5,16 +5,11 @@
 - [waxolotl](https://github.com/eliot-akira/waxolotl) - A small language that compiles to WebAssembly Text format
 - [zxel](https://github.com/eliot-akira/zxel) - Interactive terminal shell for JavaScript runtimes with syntax highlight and zx utilities
 
-#### Compression
+#### Compress
 
 - [zip-compressor](https://github.com/eliot-akira/zip-compressor) - Encode and decode zip files with CompressionStream
 - [png-compressor](https://github.com/eliot-akira/png-compressor) - Compress and encode data as PNG image
 - [base64-compressor](https://github.com/eliot-akira/base64-compressor) - Compress and encode data as URL-safe base64 string
-
-#### Media
-
-- [expreva](https://github.com/expreva/expreva) - Expreva is a language based on arithmetic and algebra expressions.
-- [mooz](https://github.com/moozap/mooz) - Modules for web audio and music
 
 #### Builder
 
@@ -23,22 +18,39 @@
 - [immerst](https://github.com/eliot-akira/immerst) - Modular immutable state management
 - [testra](https://github.com/eliot-akira/testra) - Minimal test runner
 
-#### Fun
+#### Language
+
+- [estreval](https://github.com/expreva/estreval) - Evaluate JavaScript abstract syntax tree in ESTree format 
+- [expreva](https://github.com/expreva) - Expreva is a language based on arithmetic and algebra expressions
+- [tstree](https://github.com/expreva/tstree) - Parse TypeScript code into ESTree-compatible abstract syntax tree
+
+#### Media
 
 - [neko](https://github.com/eliot-akira/neko) - Neko is a cross-platform open-source animated cursor-chasing cat screenmate application
 - [microcity](https://github.com/eliot-akira/microcity) - Miniature city simulation evolved from Micropolis
+- [mooz](https://github.com/moozap/mooz) - Modules for web audio and music
 - [brushlib-wasm](https://github.com/eliot-akira/brushlib-wasm) - Brush engine based on WebAssembly port of MyPaint
 - [tetris](https://github.com/eliot-akira/tetris) - Rotate tetrominoes as they fall and complete rows to clear them
 
 ## :eyes:
 
+#### Projects
+
+- [Ink & Switch](https://www.inkandswitch.com/)
+- [uLisp](http://www.ulisp.com/) - Lisp for Microcontrollers
+- [unified](https://unifiedjs.com/) - Interface for parsing, inspecting, transforming, and serializing content through syntax trees 
+- [Vexflow](https://github.com/vexflow/vexflow) - TypeScript library for rendering music notation
+- [VexML](https://github.com/stringsync/vexml) - MusicXML score layout and rendering using Vexflow
+
 #### People
 
+- [Adam Zieliński](https://github.com/adamziel)
+- [Bret Victor](https://worrydream.com/)
+- [Daniel Shiffman](https://github.com/shiffman)
 - [Fabrice Bellard](https://bellard.org/)
 - [Justine Tunney](https://github.com/jart)
 - [Lingdong Huang](https://github.com/LingDong-)
+- [Maggie Appleton](https://maggieappleton.com/)
+- [Mary Rose Cook](https://maryrosecook.com/)
 - [Simon Willison](https://github.com/simonw)
-
-#### Projects
-
-- [vexml](https://github.com/stringsync/vexml) - MusicXML to Vexflow
+- [wooorm](https://github.com/wooorm)
