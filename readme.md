@@ -2,14 +2,15 @@
 
 #### Recent
 
+- [zig-playground](https://github.com/eliot-akira/zig-playground) - Zig compiler and language server in the browser
 - [waxolotl](https://github.com/eliot-akira/waxolotl) - A small language that compiles to WebAssembly Text format
 - [zxel](https://github.com/eliot-akira/zxel) - Interactive terminal shell for JavaScript runtimes with syntax highlight and zx utilities
 
 #### Compress
 
-- [zip-compressor](https://github.com/eliot-akira/zip-compressor) - Encode and decode zip files with CompressionStream
-- [png-compressor](https://github.com/eliot-akira/png-compressor) - Compress and encode data as PNG image
 - [base64-compressor](https://github.com/eliot-akira/base64-compressor) - Compress and encode data as URL-safe base64 string
+- [png-compressor](https://github.com/eliot-akira/png-compressor) - Compress and encode data as PNG image
+- [zip-compressor](https://github.com/eliot-akira/zip-compressor) - Encode and decode zip files with CompressionStream
 
 #### Builder
 
@@ -22,6 +23,7 @@
 
 - [estreval](https://github.com/expreva/estreval) - Evaluate JavaScript abstract syntax tree in ESTree format 
 - [expreva](https://github.com/expreva) - Expreva is a language based on arithmetic and algebra expressions
+- [php-beautify](https://github.com/TangibleInc/php-beautify) - Lint and format source files in Node.js using PHP Code Sniffer and WordPress Code Standards running on PHP WebAssembly
 - [tstree](https://github.com/expreva/tstree) - Parse TypeScript code into ESTree-compatible abstract syntax tree
 
 #### Media
@@ -36,11 +38,15 @@
 
 #### Projects
 
-- [Ink & Switch](https://www.inkandswitch.com/)
+- [Ink & Switch](https://www.inkandswitch.com)
+  - [End-user programming](https://www.inkandswitch.com/end-user-programming/)
+  - [Dynamic documents as personal software](https://www.inkandswitch.com/potluck/)
+  - [Local-first software](https://www.inkandswitch.com/local-first/)
+- [WordPress Playground](https://github.com/WordPress/wordpress-playground) - Run WordPress in the browser via WebAssembly PHP
 - [uLisp](http://www.ulisp.com/) - Lisp for Microcontrollers
 - [unified](https://unifiedjs.com/) - Interface for parsing, inspecting, transforming, and serializing content through syntax trees 
 - [Vexflow](https://github.com/vexflow/vexflow) - TypeScript library for rendering music notation
-- [VexML](https://github.com/stringsync/vexml) - MusicXML score layout and rendering using Vexflow
+  - [VexML](https://github.com/stringsync/vexml) - MusicXML score layout and rendering using Vexflow
 
 #### People
 
