@@ -2,6 +2,7 @@
 
 #### Recent
 
+- [visual-programming-environments](https://github.com/eliot-akira/visual-programming-environments)
 - [zig-playground](https://github.com/eliot-akira/zig-playground) - Zig compiler and language server in the browser
 - [waxolotl](https://github.com/eliot-akira/waxolotl) - A small language that compiles to WebAssembly Text format
 - [zxel](https://github.com/eliot-akira/zxel) - Interactive terminal shell for JavaScript runtimes with syntax highlight and zx utilities
@@ -42,6 +43,7 @@
   - [End-user programming](https://www.inkandswitch.com/end-user-programming/)
   - [Dynamic documents as personal software](https://www.inkandswitch.com/potluck/)
   - [Local-first software](https://www.inkandswitch.com/local-first/)
+- [PAX: User interface engine for native apps and WebAssembly sites](https://github.com/paxengine/pax)
 - [WordPress Playground](https://github.com/WordPress/wordpress-playground) - Run WordPress in the browser via WebAssembly PHP
 - [uLisp](http://www.ulisp.com/) - Lisp for Microcontrollers
 - [unified](https://unifiedjs.com/) - Interface for parsing, inspecting, transforming, and serializing content through syntax trees 
