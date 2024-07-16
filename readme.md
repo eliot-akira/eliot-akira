@@ -2,7 +2,7 @@
 
 #### Recent
 
-- [visual-programming-environments](https://github.com/eliot-akira/visual-programming-environments)
+- [visual-programming-environments](https://github.com/eliot-akira/visual-programming-environments) - Examples of visual programming environments
 - [zig-playground](https://github.com/eliot-akira/zig-playground) - Zig compiler and language server in the browser
 - [waxolotl](https://github.com/eliot-akira/waxolotl) - A small language that compiles to WebAssembly Text format
 - [zxel](https://github.com/eliot-akira/zxel) - Interactive terminal shell for JavaScript runtimes with syntax highlight and zx utilities
