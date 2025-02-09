@@ -4,16 +4,10 @@
 
 - [ulisp-wasm](https://github.com/eliot-akira/ulisp-wasm) - uLisp for WebAssembly
 - [visual-programming-environments](https://github.com/eliot-akira/visual-programming-environments) - Examples of visual programming environments
+- [gitmoji-overview](https://github.com/eliot-akira/gitmoji-overview) - Overview of Gitmoji Markdown
 - [zig-playground](https://github.com/eliot-akira/zig-playground) - Zig compiler and language server in the browser
 - [waxolotl](https://github.com/eliot-akira/waxolotl) - A small language that compiles to WebAssembly Text format
 - [zxel](https://github.com/eliot-akira/zxel) - Interactive terminal shell for JavaScript runtimes with syntax highlight and zx utilities
-
-#### Builder
-
-- [immerst](https://github.com/eliot-akira/immerst) - Modular immutable state management
-- [tangible-roller](https://github.com/TangibleInc/tangible-roller) - Build project assets using Rollup and ESBuild 
-- [template-system](https://github.com/TangibleInc/template-system) - A template system for WordPress with content type loops and conditions 
-- [testra](https://github.com/eliot-akira/testra) - Minimal test runner
 
 #### Media
 
@@ -36,6 +30,13 @@
 - [png-compressor](https://github.com/eliot-akira/png-compressor) - Compress and encode data as PNG image
 - [zip-compressor](https://github.com/eliot-akira/zip-compressor) - Encode and decode zip files with CompressionStream
 
+#### Builder
+
+- [immerst](https://github.com/eliot-akira/immerst) - Modular immutable state management
+- [tangible-roller](https://github.com/TangibleInc/tangible-roller) - Build project assets using Rollup and ESBuild 
+- [template-system](https://github.com/TangibleInc/template-system) - A template system for WordPress with content type loops and conditions 
+- [testra](https://github.com/eliot-akira/testra) - Minimal test runner
+
 ## :eyes:
 
 #### Projects
@@ -45,7 +46,6 @@
   - [End-user programming](https://www.inkandswitch.com/end-user-programming/)
   - [Dynamic documents as personal software](https://www.inkandswitch.com/potluck/)
   - [Local-first software](https://www.inkandswitch.com/local-first/)
-- [PAX: User interface engine for native apps and WebAssembly sites](https://github.com/paxengine/pax)
 - [WordPress Playground](https://github.com/WordPress/wordpress-playground) - Run WordPress in the browser via WebAssembly PHP
 - [uLisp](http://www.ulisp.com/) - Lisp for Microcontrollers
 - [unified](https://unifiedjs.com/) - Interface for parsing, inspecting, transforming, and serializing content through syntax trees 
