@@ -2,11 +2,7 @@
 
 #### Recent
 
-- [ulisp-wasm](https://github.com/eliot-akira/ulisp-wasm) - uLisp for WebAssembly
-- [visual-programming-environments](https://github.com/eliot-akira/visual-programming-environments) - Examples of visual programming environments
-- [gitmoji-overview](https://github.com/eliot-akira/gitmoji-overview) - Overview of Gitmoji Markdown
-- [zig-playground](https://github.com/eliot-akira/zig-playground) - Zig compiler and language server in the browser
-- [waxolotl](https://github.com/eliot-akira/waxolotl) - A small language that compiles to WebAssembly Text format
+- [ulisp-web](https://github.com/eliot-akira/ulisp-wasm) - uLisp for WebAssembly
 - [zxel](https://github.com/eliot-akira/zxel) - Interactive terminal shell for JavaScript runtimes with syntax highlight and zx utilities
 
 #### Media
@@ -16,6 +12,8 @@
 - [microcity](https://github.com/eliot-akira/microcity) - Miniature city simulation evolved from Micropolis
 - [mooz](https://github.com/moozap/mooz) - Modules for web audio and music
 - [tetris](https://github.com/eliot-akira/tetris) - Rotate tetrominoes as they fall and complete rows to clear them
+- [visual-programming-environments](https://github.com/eliot-akira/visual-programming-environments) - Examples of visual programming environments
+- [gitmoji-overview](https://github.com/eliot-akira/gitmoji-overview) - Overview of Gitmoji Markdown
 
 #### Language
 
@@ -23,6 +21,8 @@
 - [expreva](https://github.com/expreva) - Expreva is a language based on arithmetic and algebra expressions
 - [php-beautify](https://github.com/TangibleInc/php-beautify) - Lint and format source files in Node.js using PHP Code Sniffer and WordPress Code Standards running on PHP WebAssembly
 - [tstree](https://github.com/expreva/tstree) - Parse TypeScript code into ESTree-compatible abstract syntax tree
+- [waxolotl](https://github.com/eliot-akira/waxolotl) - A small language that compiles to WebAssembly Text format
+- [zig-playground](https://github.com/eliot-akira/zig-playground) - Zig compiler and language server in the browser
 
 #### Compress
 
