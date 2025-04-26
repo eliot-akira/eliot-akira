@@ -3,7 +3,7 @@
 #### Recent
 
 - [png-compressor](https://github.com/eliot-akira/png-compressor) - Compress and encode data as PNG image
-- [ulisp-web](https://github.com/eliot-akira/ulisp-wasm) - uLisp for WebAssembly
+- [ulisp-web](https://github.com/eliot-akira/ulisp-web) - uLisp for WebAssembly
 - [codemirror-lang-ulisp](https://github.com/eliot-akira/codemirror-lang-ulisp) - uLisp language support for CodeMirror editor
 - [zxel](https://github.com/eliot-akira/zxel) - Interactive terminal shell for JavaScript runtimes with syntax highlight and zx utilities
 
@@ -46,15 +46,18 @@
   - [Dynamic documents as personal software](https://www.inkandswitch.com/potluck/)
   - [Local-first software](https://www.inkandswitch.com/local-first/)
 - [Make a Lisp](https://github.com/kanaka/mal)
+- [typescript-go](https://github.com/microsoft/typescript-go) - TypeScript 7 being implemented in Go
 - [WordPress Playground](https://github.com/WordPress/wordpress-playground) - Run WordPress in the browser via WebAssembly PHP
 - [uLisp](http://www.ulisp.com/) - Lisp for Microcontrollers
 - [unified](https://unifiedjs.com/) - Interface for parsing, inspecting, transforming, and serializing content through syntax trees 
 - [Vexflow](https://github.com/vexflow/vexflow) - TypeScript library for rendering music notation
 - [VexML](https://github.com/stringsync/vexml) - MusicXML score layout and rendering using Vexflow
+- [xcc](https://github.com/tyfkda/xcc) -  Standalone C compiler/assembler/linker/libc for x86-64/aarch64/riscv64/wasm
 
 #### People
 
 - [Adam Zieliński](https://github.com/adamziel)
+- [Anders Hejlsberg](https://github.com/ahejlsberg)
 - [Bret Victor](https://worrydream.com/)
 - [Daniel Shiffman](https://github.com/shiffman)
 - [Fabrice Bellard](https://bellard.org/)
