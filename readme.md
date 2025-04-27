@@ -1,4 +1,4 @@
-<img src="assets/resonance-cascade.jpg" alt="Resonance Cascade" style="max-width:620px;border-radius:6px;background-color:#fff">
+<img src="assets/resonance-cascade.jpg" alt="Resonance Cascade" style="max-width:380px;border-radius:6px;background-color:#fff">
 
 ## :seedling:
 
