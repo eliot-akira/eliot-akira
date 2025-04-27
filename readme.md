@@ -1,6 +1,7 @@
-<img src="assets/resonance-cascade.jpg" alt="Resonance Cascade" style="max-width:380px;border-radius:6px;background-color:#fff">
 
 ## :seedling:
+
+<img src="assets/resonance-cascade.jpg" alt="Resonance Cascade" style="max-width:380px;border-radius:6px;background-color:#fff">
 
 #### Recent
 
@@ -39,9 +40,9 @@
 - [tstree](https://github.com/expreva/tstree) - Parse TypeScript code into ESTree-compatible abstract syntax tree
 - [expreva](https://github.com/expreva) - Expreva is a language based on arithmetic and algebra expressions
 
-<img src="assets/stepA_mal.jpg" alt="LISP" style="max-width:620px;border-radius:6px">
-
 ## :eyes:
+
+<img src="assets/stepA_mal.jpg" alt="LISP" style="max-width:620px;border-radius:6px">
 
 #### Projects
 
