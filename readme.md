@@ -1,3 +1,5 @@
+<img src="assets/Resonance_Cascade-500px.png" alt="Resonance Cascade" style="max-width:620px;border-radius:6px;background-color:#fff">
+
 ## :seedling:
 
 #### Recent
@@ -37,6 +39,8 @@
 - [tstree](https://github.com/expreva/tstree) - Parse TypeScript code into ESTree-compatible abstract syntax tree
 - [expreva](https://github.com/expreva) - Expreva is a language based on arithmetic and algebra expressions
 
+<img src="assets/stepA_mal.png" alt="LISP" style="max-width:620px;border-radius:6px">
+
 ## :eyes:
 
 #### Projects
@@ -62,6 +66,7 @@
 - [Lingdong Huang](https://github.com/LingDong-)
 - [Justine Tunney](https://github.com/jart)
 - [Bret Victor](https://worrydream.com/)
+- [Lu Wilson](https://github.com/TodePond/)
 - [Daniel Shiffman](https://github.com/shiffman)
 - [Adam Zieliński](https://github.com/adamziel)
 - [Maggie Appleton](https://maggieappleton.com/)
@@ -69,7 +74,3 @@
 - [Simon Willison](https://github.com/simonw)
 - [Lup Yuen Lee](https://lupyuen.org/)
 - [wooorm](https://github.com/wooorm)
-
----
-
-<img src="assets/stepA_mal.png" alt="LISP" style="max-width:620px;border-radius:6px">
