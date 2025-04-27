@@ -3,7 +3,7 @@
 #### Recent
 
 - [png-compressor](https://github.com/eliot-akira/png-compressor) - Compress and encode data as PNG image
-- [ulisp-web](https://github.com/eliot-akira/ulisp-web) - uLisp for WebAssembly
+- [ulisp-wasm](https://github.com/eliot-akira/ulisp-wasm) - uLisp for WebAssembly
   - [codemirror-lang-ulisp](https://github.com/eliot-akira/codemirror-lang-ulisp) - uLisp language support for CodeMirror editor
 - [zxel](https://github.com/eliot-akira/zxel) - Interactive terminal shell for JavaScript runtimes with syntax highlight and zx utilities
 
