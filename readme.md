@@ -1,13 +1,12 @@
 
-## :seedling:
+## :seedling: :seedling:
 
-<img src="assets/resonance-cascade.jpg" alt="Resonance Cascade" style="max-width:380px;border-radius:6px;background-color:#fff">
+<img src="assets/resonance-cascade.jpg" alt="Resonance Cascade">
 
 #### Recent
 
-- [png-compressor](https://github.com/eliot-akira/png-compressor) - Compress and encode data as PNG image
 - [ulisp-wasm](https://github.com/eliot-akira/ulisp-wasm) - uLisp for WebAssembly
-  - [codemirror-lang-ulisp](https://github.com/eliot-akira/codemirror-lang-ulisp) - uLisp language support for CodeMirror editor
+- [png-compressor](https://github.com/eliot-akira/png-compressor) - Compress and encode data as PNG image
 - [zxel](https://github.com/eliot-akira/zxel) - Interactive terminal shell for JavaScript runtimes with syntax highlight and zx utilities
 
 #### Media
@@ -40,9 +39,9 @@
 - [tstree](https://github.com/expreva/tstree) - Parse TypeScript code into ESTree-compatible abstract syntax tree
 - [expreva](https://github.com/expreva) - Expreva is a language based on arithmetic and algebra expressions
 
-## :eyes:
+## :eyes: :eyes:
 
-<img src="assets/stepA_mal.jpg" alt="LISP" style="max-width:620px;border-radius:6px">
+<img src="assets/stepA_mal.jpg" alt="LISP">
 
 #### Projects
 
@@ -54,6 +53,7 @@
   - [End-user programming](https://www.inkandswitch.com/end-user-programming/)
   - [Dynamic documents as personal software](https://www.inkandswitch.com/potluck/)
   - [Local-first software](https://www.inkandswitch.com/local-first/)
+- [Malleable Systems Collective](https://malleable.systems/)
 - [Explorable Explanations](https://explorabl.es/all/)
 - [unified](https://unifiedjs.com/) - Interface for parsing, inspecting, transforming, and serializing content through syntax trees 
 - [Vexflow](https://github.com/vexflow/vexflow) - TypeScript library for rendering music notation
