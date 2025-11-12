@@ -1,10 +1,11 @@
 
 ## :seedling: :seedling:
 
-<img src="assets/resonance-cascade.jpg" alt="Resonance Cascade">
+<img src="assets/minux-screenshot.png" alt="Minux">
 
 #### Recent
 
+- [minux](https://github.com/eliot-akira/minux) - Minimal Linux on WebAssembly
 - [ulisp-wasm](https://github.com/eliot-akira/ulisp-wasm) - uLisp for WebAssembly
 - [png-compressor](https://github.com/eliot-akira/png-compressor) - Compress and encode data as PNG image
 - [zxel](https://github.com/eliot-akira/zxel) - Interactive terminal shell for JavaScript runtimes with syntax highlight and zx utilities
@@ -18,6 +19,8 @@
 - [gitmoji](https://github.com/eliot-akira/gitmoji) - Overview of Gitmoji Markdown
 - [tetris](https://github.com/eliot-akira/tetris) - Rotate tetrominoes as they fall and complete rows to clear them
 - [visual-programming-environments](https://github.com/eliot-akira/visual-programming-environments) - Examples of visual programming environments
+
+<img src="assets/resonance-cascade.jpg" alt="Resonance Cascade">
 
 #### Builder
 
@@ -55,15 +58,17 @@
   - [Local-first software](https://www.inkandswitch.com/local-first/)
 - [Malleable Systems Collective](https://malleable.systems/)
 - [Explorable Explanations](https://explorabl.es/all/)
-- [unified](https://unifiedjs.com/) - Interface for parsing, inspecting, transforming, and serializing content through syntax trees 
+- [Unified](https://unifiedjs.com/) - Interface for parsing, inspecting, transforming, and serializing content through syntax trees 
 - [Vexflow](https://github.com/vexflow/vexflow) - TypeScript library for rendering music notation
 - [VexML](https://github.com/stringsync/vexml) - MusicXML score layout and rendering using Vexflow
 - [WordPress Playground](https://github.com/WordPress/wordpress-playground) - Run WordPress in the browser via WebAssembly PHP
 
 #### People
 
-- [Anders Hejlsberg](https://github.com/ahejlsberg)
 - [Fabrice Bellard](https://bellard.org/)
+- [copy.sh](https://github.com/copy/)
+- [Andre Weissflog](https://github.com/floooh/)
+- [Anders Hejlsberg](https://github.com/ahejlsberg)
 - [Lingdong Huang](https://github.com/LingDong-)
 - [Justine Tunney](https://github.com/jart)
 - [Bret Victor](https://worrydream.com/)
