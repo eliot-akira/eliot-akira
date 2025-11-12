@@ -1,9 +1,9 @@
 
-## :seedling: :seedling:
-
 <img src="assets/minux-screenshot.png" alt="Minux">
 
 https://eliot-akira.github.io/minux/
+
+## :seedling: :seedling:
 
 #### Wasmology
 
