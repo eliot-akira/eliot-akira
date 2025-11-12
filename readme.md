@@ -22,6 +22,8 @@ https://eliot-akira.github.io/minux/
 - [waxolotl](https://github.com/eliot-akira/waxolotl) - A small language that compiles to WebAssembly Text format
 - [zig-playground](https://github.com/eliot-akira/zig-playground) - Zig compiler and language server in the browser
 
+<img src="assets/resonance-cascade.jpg" alt="Resonance Cascade">
+
 #### Media
 
 - [neko](https://github.com/eliot-akira/neko) - Neko is a cross-platform open-source animated cursor-chasing cat screenmate application
@@ -32,8 +34,6 @@ https://eliot-akira.github.io/minux/
 - [base64-compressor](https://github.com/eliot-akira/base64-compressor) - Compress and encode data as URL-safe base64 string
 - [zip-compressor](https://github.com/eliot-akira/zip-compressor) - Encode and decode zip files with CompressionStream
 - [tetris](https://github.com/eliot-akira/tetris) - Rotate tetrominoes as they fall and complete rows to clear them
-
-<img src="assets/resonance-cascade.jpg" alt="Resonance Cascade">
 
 #### Language
 
