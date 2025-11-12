@@ -12,11 +12,11 @@ https://eliot-akira.github.io/minux/
 - [cc-wasm](https://github.com/eliot-akira/cc-wasm) - C99 to WebAssembly compiler as Wasm binary 
 - [uscheme](https://github.com/eliot-akira/uscheme) - A minimal Scheme to C compiler written in itself
 - [wasmos](https://github.com/eliot-akira/wasmos) - Microkernel that runs WebAssembly natively 
+- [pikchr-wasm](https://github.com/eliot-akira/pikchr-wasm/) - Pikchr on WebAssembly - Markup language for diagrams in technical documentation 
+- [pandoc-wasm](https://github.com/eliot-akira/pandoc-wasm) - Universal markup converter Pandoc in the browser
 - [yoshimi-wasm](https://github.com/eliot-akira/yoshimi-wasm) - Yoshimi software audio synthesizer compiled to WebAssembly 
 - [opl3-wasm](https://github.com/eliot-akira/opl3-wasm) - Emulator for Yamaha OPL3 FM Synthesizer compiled to WebAssembly 
 - [git-wasm](https://github.com/eliot-akira/git-wasm) - libgit2 compiled to WebAssembly 
-- [pikchr-wasm](https://eliot-akira.github.io/pikchr-wasm/) - Pikchr on WebAssembly - Markup language for diagrams in technical documentation 
-- [pandoc-wasm](https://github.com/eliot-akira/pandoc-wasm) - Universal markup converter Pandoc in the browser
 - [eforth-wasm](https://github.com/eliot-akira/eforth-wasm) - eForth compiled to WebAssembly  
 - [brushlib-wasm](https://github.com/eliot-akira/brushlib-wasm) - Brush engine based on WebAssembly port of MyPaint
 - [waxolotl](https://github.com/eliot-akira/waxolotl) - A small language that compiles to WebAssembly Text format
