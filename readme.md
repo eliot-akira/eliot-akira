@@ -7,7 +7,7 @@ https://eliot-akira.github.io/minux/
 
 #### Wasmology
 
-- [minux](https://github.com/eliot-akira/minux/) - Minimal Linux on WebAssembly based on Alpine and Cartesi Machine (64-bit RISC-V CPU emulator)
+- [minux](https://github.com/eliot-akira/minux/) - Minimal Linux on WebAssembly with Alpine and Cartesi Machine (64-bit RISC-V CPU emulator)
 - [ulisp-wasm](https://github.com/eliot-akira/ulisp-wasm) - uLisp for WebAssembly
 - [cc-wasm](https://github.com/eliot-akira/cc-wasm) - C99 to WebAssembly compiler as Wasm binary 
 - [uscheme](https://github.com/eliot-akira/uscheme) - A minimal Scheme to C compiler written in itself
