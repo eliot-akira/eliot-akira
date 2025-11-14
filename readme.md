@@ -1,5 +1,5 @@
 
-## :seedling: :seedling:
+## :evergreen_tree: :evergreen_tree: :evergreen_tree:
 
 <img src="assets/minux-screenshot.png" alt="Minux">
 
@@ -49,7 +49,7 @@ https://eliot-akira.github.io/minux/
 
 <!-- - [expreva](https://github.com/expreva) - Expreva is a language based on arithmetic and algebra expressions -->
 
-## :eyes: :eyes:
+## :green_heart: :green_heart: :green_heart:
 
 <img src="assets/stepA_mal.jpg" alt="LISP">
 
