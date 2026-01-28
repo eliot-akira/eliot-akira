@@ -1,11 +1,18 @@
 
 ## :evergreen_tree: :evergreen_tree: :evergreen_tree:
 
-<img src="assets/minux-screenshot.png" alt="Minux">
+#### Recent
 
-https://eliot-akira.github.io/minux/
-
+- [tcc-wasm](https://github.com/eliot-akira/tcc-wasm) - Tiny C compiler on WebAssembly
+- [malwat](https://github.com/eliot-akira/malwat) - Make a Lisp in WebAssembly Text
+- [bobwat](https://github.com/eliot-akira/bobwat) - Scheme to WebAssembly Text compiler
+- [tree-sitter-wasm](https://github.com/eliot-akira/tree-sitter-wasm) - Tree Sitter parser and language grammars compiled to WebAssembly
+- [mquickjs-wasm](https://github.com/eliot-akira/) - MicroQuickJS on WebAssembly
+- [uwasm](https://github.com/eliot-akira/) - Minimal WebAssembly runtime based on wasm-micro-runtime cross-compiled with Zig
+ 
 #### Wasmology
+
+<img src="assets/minux-screenshot.png" alt="Minux">
 
 - [minux](https://github.com/eliot-akira/minux/) - Minimal Linux on WebAssembly with Alpine and Cartesi Machine (64-bit RISC-V CPU emulator)
 - [ulisp-wasm](https://github.com/eliot-akira/ulisp-wasm) - uLisp for WebAssembly
@@ -56,7 +63,7 @@ https://eliot-akira.github.io/minux/
 #### Projects
 
 - [Guile Hoot](https://www.spritely.institute/hoot/) - Scheme to Wasm compiler and toolchain
-- [xcc](https://github.com/tyfkda/xcc) -  Standalone C compiler/assembler/linker/libc for x86-64/aarch64/riscv64/wasm
+- [xcc](https://github.com/tyfkda/xcc) - Standalone C compiler/assembler/linker/libc for x86-64/aarch64/riscv64/wasm
 - [uLisp](http://www.ulisp.com/) - Lisp for Microcontrollers
 - [Make a Lisp](https://github.com/kanaka/mal)
 - [Ink & Switch](https://www.inkandswitch.com)
@@ -73,18 +80,19 @@ https://eliot-akira.github.io/minux/
 
 #### People
 
-- [Fabrice Bellard](https://bellard.org/)
-- [copy.sh](https://github.com/copy/)
 - [Andre Weissflog](https://github.com/floooh/)
-- [Anders Hejlsberg](https://github.com/ahejlsberg)
+- [Daniel Shiffman](https://github.com/shiffman)
 - [Lingdong Huang](https://github.com/LingDong-)
 - [Justine Tunney](https://github.com/jart)
+- [Simon Willison](https://github.com/simonw)
+- [Fabrice Bellard](https://bellard.org/)
+- [Eli Bendersky](https://github.com/eliben)
+- [Fabian Hemmer](https://github.com/copy/)
+- [Anders Hejlsberg](https://github.com/ahejlsberg)
 - [Bret Victor](https://worrydream.com/)
 - [Lu Wilson](https://github.com/TodePond/)
-- [Daniel Shiffman](https://github.com/shiffman)
 - [Adam Zieliński](https://github.com/adamziel)
 - [Maggie Appleton](https://maggieappleton.com/)
 - [Mary Rose Cook](https://maryrosecook.com/)
-- [Simon Willison](https://github.com/simonw)
 - [Lup Yuen Lee](https://lupyuen.org/)
 - [wooorm](https://github.com/wooorm)
